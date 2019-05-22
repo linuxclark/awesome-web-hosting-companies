@@ -1,2 +1,1 @@
-* 100tb.com AS29854 WESTHOST	
-* 1asiacom.com AS19318 IS-AS-1
+* to be added
