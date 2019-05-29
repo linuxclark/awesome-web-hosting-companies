@@ -1,3 +1,9 @@
+* hostmantis.com
+
+
+
+
+
 * 100tb.com AS29854 WESTHOST	
 * 1asiacom.com AS19318 IS-AS-1
 * 1stclasshosting.com AS14397 AS-DNS
@@ -9,14 +15,11 @@
 * 4rweb.com AS32742 4-RWEB
 * 4web.ca AS32536 4WEB-CA
 * 4webspace.com AS13911 TERA-BYTE
-* 
-* 
-* 
-* =====a1.nl AS15703 TrueServer-AS
+* a1.nl AS15703 TrueServer-AS
 * a2hosting.com AS55293 A2HOSTING
 * abchk.com AS55750 ABCHK-HK
 * abelohost.com AS204196 ABELOHOST
-* ======absolutsolutions.rs AS31042 SERBIA-BROADBAND-AS
+* absolutsolutions.rs AS31042 SERBIA-BROADBAND-AS
 * accelerated.de AS31400 ACCELERATED-IT
 * acceleration.net AS7453 ACCELERATION
 * accessway.net AS6943 INFOTECHSYS
@@ -24,30 +27,17 @@
 * acens.com AS16371 acens_AS
 * acs.net.au AS134791 ACS-AS-AP
 * activeserve.com AS31953 ACTIVESERVE-AS
-* 
-* 
-* 
-* 
-* 
 * adcdata.com AS135330 ADCDATACOM-AS-AP
 * adept.co.za AS15022 ADEPT-ZA
 * aditsystems.de AS204038 ADITSYSTEMS
-* 
-* 
 * advanhost.com.hk AS55334 ASL-338-HK
 * advantagecom.net AS19538 ADVANTAGECOM
 * agni.com AS23923 AGNI-AS
 * aiso.net AS36363 AISO-SOCAL
-* ============own dc ait.com AS13335 CLOUDFLARENET
-* 
-* 
-* 
-* 
+* own dc ait.com AS13335 CLOUDFLARENET
 * akliz.net AS394314 AKLIZ
 * aktifnet.com.my AS132022 AKTIFNET-AS-AP
 * alentus.com AS4250 ALENT-ASN-1
-* 
-* 
 * all-inkl.com AS34788 NMM-AS
 * alojalia.com AS205697 ALOJALIA
 * alphavps.bg AS203380 DAInternationalGroup
@@ -56,22 +46,12 @@
 * amanah.com AS32489 AMANAHA-NEW
 * amaze.com.au AS38220 AMAZE-SYD-AS-AP
 * amfrontier.net AS46085 NET32
-* 
-* 
-* 
 * amplex.net AS20205 AMPLEX
 * andaina.net AS203280 andaina
 * angel-hosting.cz AS39896 XHOSTING
-* 
-* 
 * anlx.com AS25061 ANLX-UK
 * anynode.net AS20150 anyNode
-* 
 * apc.sg AS132425 APC-HOSTING-SG
-* 
-* 
-* 
-* 
 * appliedi.net AS14519 APPLIEDI
 * ardhglobal.com AS45731 ARDH-AS-ID
 * arpnetworks.com AS25795 ARPNET
@@ -80,10 +60,6 @@
 * ashhost.co.nz AS133187 ASHGROUPLTD-AS-AP
 * asmallorange.com AS62729 ASMALLORANGE1
 * astutium.com AS29527 ASTUTIUM-AS
-* 
-* 
-* 
-* 
 * atlantic.net AS6364  ATLANTIC-NET-1
 * atomohost.com AS44750 ATOMOHOST-AS
 * avalon.hr AS201563 AVALON-AS
@@ -94,33 +70,20 @@
 * axcelx.com AS33083 AXCELX-NET
 * ayera.com AS25649 AYERA-AS
 * bahnhof.net AS8473 BAHNHOF
-* basicbrix.com AS64010 BASICBRIX-AS-AP
-* 
-* 
-* 
-* #####bb-online.com AS2856 BT-UK-AS
-* #####bctconsulting.com AS26496 AS-26496-GO-DADDY-COM-LLC
+* basicbrix.com AS64010 BASICBRIX-AS-AP 
+* bb-online.com AS2856 BT-UK-AS
+* bctconsulting.com AS26496 AS-26496-GO-DADDY-COM-LLC
 * beeksfinancialcloud.com AS206689 bfc-ty3
 * bendtel.com AS27008 BendTel
-* ######myorderbox.com AS394695 PUBLIC-DOMAIN-REGISTRY
+* myorderbox.com AS394695 PUBLIC-DOMAIN-REGISTRY
 * beotel.net AS6700 BEOTEL-AS
-* #######best.net.id AS58391 CMS-AS-ID
-* 
-* 
-* ###########bestcloudvps.com AS577 xxxxxx
+* best.net.id AS58391 CMS-AS-ID
+* bestcloudvps.com AS577 xxxxxx
 * bestwebhosting.co.uk AS12488 KRYSTAL
 * bgpgrid.net AS27220 BGPGRID
 * bigbrainglobal.com AS64235 BIGBRAIN
-* 
-* 
-* 
-* 
-* 
 * bijoy.net AS24556 BIJOY-BD-AS-AP
 * alchemy.net AS7296 ALCHEMYNET
-* 
-* 
-* 
 * dacentec.com AS31863 DACEN-2
 * highspeedweb.net AS8175 HIGHSPEEDWEB
 * binary.net AS7806 BinaryNet
@@ -130,14 +93,9 @@
 * blacknight.com AS39122 BLACKNIGHT-AS
 * blacksun.ca AS20218 BLACKSUN
 * blix.com AS50304 BLIX
-* 
-* 
 * bluehost.com AS46606 unifiedlayer
 * bluetowerhosting.com AS31981 BLUETOWERHOSTING-ASN
 * brain.net.pk AS17911 BRAINPK-AS-AP
-* 
-* 
-* 
 * brinkster.com AS33055 Brinkster
 * bspeedy.com AS54938 BSPEEDYINC-1
 * bsws.de AS24640 BSWS-AS
@@ -161,13 +119,7 @@
 * cbtp.co.id AS131745 IDNIC-CYBERTECHTONIC-AS-ID
 * ccsleeds.co.uk AS34555 CCS-Leeds-ASN
 * centerhop.com AS17831 CENTERHOP-SG
-* 
-* 
-* 
 * changeip.com AS00000 00000
-* 
-* 
-* 
 * chapal.net AS133932 CHAPAL
 * chicagonet.net AS15124 CHICAGONET-NET
 * chicagovps.net AS36352 AS-COLOCROSSING
@@ -176,95 +128,54 @@
 * cirrushosting.com AS36218 CIRRUSTECHLTD
 * cisp.com AS16617 COMMUNITYISP
 * citechco.net AS17471 CYBERNET-BD-AS
-* 
-* 
-* 
 * citizens.coop AS16942 CITIZENS
 * citrahost.com AS23951 CITRA-AS-ID
 * citravps.com AS23951 CITRA-AS-ID
 * cizgi.net.tr AS34619 CIZGI
 * cj2.nl AS39704 CJ2-AS
-* client.de.co.th AS63989 DE-CORP
-* 
-* 
+* client.de.co.th AS63989 DE-CORP 
 * cloud.dk AS48854 ZITCOM
-* 
-* 
-* 
 * cloud.ibm.com AS19604 IBM
-* 
-* 
 * cloudaccess.net AS54456 CLOUDACCESS-NETWORK
 * cloudcity.fi AS202509 CLOUDCITY
 * cloudheroes.com AS12775 JPCINET
 * clouding.io AS49635 SILICON
 * clouditaly.eu AS202552 PROTEC-AS
-* 
-* 
-* 
-* 
 * cloudprima.com AS205787 Publicloud
-* 
-* 
 * cloudsmart.tech AS00000 00000
 * cloudsouth.com AS13886 CLOUD-SOUTH
 * cloudzme.com AS202670 cloudzmeasn1
 * clouvider.co.uk AS62240 Clouvider
 * cmo.de AS25058 CMO-AS
-* 
-* 
 * coastside.net AS19306 CNI-HMB-001
 * cogecopeer1.com AS13768 COGECO-PEER1
-* 
-* 
 * coho.net AS11195 COHO-ASN
-* 
-* 
 * colbd.com AS38592 CTGONLINE-AS-AP
 * coloblox.com AS6597 CBDC-6597
 * colocall.net AS15497 Colocall
 * colocationamerica.com AS21769 AS-COLOAM
-* 
-* 
 * colocationguard.com AS31797 GALAXYVISIONS
 * colocrossing.com AS36352 AS-COLOCROSSING
-* 
-* 
 * colodee.com AS136523 COLODEE-AS-AP
-* colosseum.com AS19842 COLOSSEUM-ONL
-* 
-* 
+* colosseum.com AS19842 COLOSSEUM-ONL 
 * colostore.com AS12260 CUSTOMDOTNET
-* 
-* 
 * combahton.net AS30823 COMBAHTON
 * combell.com AS34762 COMBELL-AS
 * cometvps.com AS20278 NEXEON
 * communilink.net AS38277 CLINK-AS-AP
 * completeweb.net AS13706 COMPLETEWEBNET
 * configo.de AS34154 CONFIGO-AS
-* conova.com AS5404 conova-as
-* 
-* 
+* conova.com AS5404 conova-as 
 * constant.com AS20473 AS-CHOOPA
-* 
 * contabo.com AS51167 CONTABO
 * contina.com AS63008 CONTINA
 * coolhousing.net AS35592 COOLHOUSING-AS
-* 
-* 
 * core-backbone.com AS33891 CORE-BACKBONE
 * coreix.net AS31708 COREIX-UK-AS
 * redshift.com AS7735 REDSHIFT
-* 
-* 
 * corpsite.com AS46231 WATCHCOMM-IN
 * servers.com AS7979 SERVERS
-* 
-* 
 * cpimsp.com AS33506 CPINETWORKS-AS
-* 
-* 
 * crazydomains.com.au AS38719 DREAMSCAPE-AS-AP
 * cros.net AS15081 ASN-CROS-1
 * crucialhosting.com AS32647 CRUCIALWEBHOST
@@ -276,16 +187,12 @@
 * i3d.net AS49544 i3Dnet
 * cwcs.co.uk AS15510 CWCS-PS
 * cybercon.com AS7393 CYBERCON
-* 
-* 
 * cybersite.com.sg AS38532 USONYX-AS-AP
 * cyberwurx.com AS22653 GLOBALCOMPASS
 * dakotapro.biz AS22632 DAKPRO
 * data102.com AS33302 ONS-COS
 * databasebydesignllc.com AS17090 DATABASEBYDESIGNLLC
 * datacenter.gov.mn AS56301 MN-NDC-MN
-* 
-* 
 * datacentreplus.co.uk AS00000 00000
 * datacity.ca AS31798 DataCity
 * datagalaxy.in AS56202 RIA-INFOSOLUTIONS-IN
@@ -296,37 +203,26 @@
 * dcsmanage.com AS23338 ASN-DCS-01
 * dctwo.com.au AS132145 DCTWO-AS-AP
 * de.co.th AS63989 DE-CORP
-* 
-* 
 * deac.eu AS12993 AS12993 DEAC-AS
 * dedfiber.com AS16628 DEDICATED-FIBER-COMMUNICATIONS
 * ####dedi.jp AS00000 00000
 * dedicatedserversaustralia.com.au AS55359 FLUCCS-AS-AP
 * dedipath.com AS35913 DediPath
-* 
-* 
 * dedispec.com AS00000 00000
 * dedistart.com AS00000 00000
 * denetron.com AS394738 DENETRON
 * denvercolo.net AS63152 DENVERCOLO
 * desnet.id AS45302 DESNET-AS-ID
-* 
-* 
-* 
 * df.eu AS34011 GD-EMEA-DC-CGN1
-* 
 * dfn.net AS13692 DFN-ASN-1
 * dhiraagu.com.mv AS7642 DHIRAAGU-MV-AP
 * diadem.in AS132937 Diadem-AS
 * digicube.fr AS196689 DIGICUBE01
 * digilink.net AS7397 DIGILINK-AS-MDR
 * digitalfyre.com AS64245 AS-DIGITALFYRE
-* 
-* 
 * digitalocean.com AS14061 DIGITALOCEAN-ASN
 * digitalpacific.com.au AS55803 DIGITALPACIFIC-AU
 * dinosolutions.com AS19710 DINO-SOL
-* 
 * dline.ua AS42352 QOS
 * dmcibb.net AS47038 DMCI-BROADBAND
 * #####donweb.com AS00000 00000
@@ -340,8 +236,6 @@
 * dtsanz.com AS24183 DTS-ISP-Core1-AP
 * dynamichosting.ca AS36077 DYNAMICHOSTINGBIZ
 * easyhost.be AS34762 COMBELL-AS
-* 
-* 
 * easyhost.com.hk AS00000 00000
 * ntt.com AS16625 AKAMAI-AS
 * ecommercediscovery.com AS46597 ECOMMERCE
@@ -349,40 +243,24 @@
 * edis.at AS57169 EDIS-AS-EU
 * edsi-tech.com AS204248 EDSI-CDN
 * egihosting.com AS18779 EGIHOSTING
-* 
-* 
 * ehost.vn AS135920 EHOST-AS-VN
 * ehostidc.com AS45382 EHOSTIDC-AS-KR
-* 
-* 
-* 
 * elitehosts.com AS46945 ELITEHOSTS
 * elnet.lt AS21031 Elneta-AS
 * telesmart.mk AS34547 Telesmart-AS
-* 
 * enahost.com AS201924 LERTAS-AS
 * endlayer.com AS393965 ENDLAYER
 * endor.pl AS29593 ENDOR-AS
 * deninet.net AS29278 DENINET-HU-AS
 * erudeye.net AS133359 IDNIC-ERUDEYE-AS-ID
 * esecuredata.com AS11831 ESECUREDATA
-* 
-* 
 * netcloud.hk AS4658 M2012LIMITED-AS
-* 
-* 
 * esited.com AS22552 ESITED
 * eskimo.com AS0000 0000
 * esosoft.net AS36221 ESOSOFT
 * estruxture.com AS10929 NETELLIGENT
-* 
-* 
 * euserv.com AS35366 ISPPRO-AS
-* 
-* 
 * everyware.ch AS24951 EVERYWARE-NET
-* 
-* 
 * ewallhost.com AS00000 00000
 * ewebguru.com AS133643 EWEBGURU-AS
 * exabytes.com AS46015 EXABYTES-AS-AP
@@ -392,8 +270,6 @@
 * ezzi.net AS15149 EZZI-101-BGP
 * fasthosts.co.uk AS15418 FASTHOSTS-INTERNET
 * fastnet.co.uk AS12519 FASTNETUK
-* 
-* 
 * fastpipe.io AS30823 COMBAHTON
 * fastserv.com AS29889 FSNET-1
 * fbs.net AS00000 00000
@@ -401,25 +277,14 @@
 * fibersunucu.com.tr AS20649 ASFIBERSUNUCU
 * fidonet.com AS8282 FIDONET
 * firstheberg.com AS197922 FIRSTHEBERG
-* 
-* 
 * fl1.li AS20634 TELECOM-LI
-* 
-* 
 * fluidhosting.com AS33552 FLUIDHOSTING
 * forked.net AS46841 FORKNETWORKING
-* 
-* 
 * forpsi.com AS24806 INTERNET-CZ
 * forpsicloud.cz AS24806 INTERNET-CZ
 * fortex.com AS46754 FORTEX-DATACENTER-NJ
-* 
-* 
-* 
 * foxvalley.net AS10689 FVI-CHI
 * fozzy.com AS00000 00000
-* 
-* 
 * freerangecloud.com AS00000 00000
 * fullhost.com AS39962 PRETECS
 * fused.com AS394949 FUSED
@@ -427,41 +292,26 @@
 * futurequest.net AS22915 FUTUREQUEST-INC
 * g2khosting.com AS52236 G2KHosting S.A.
 * galaxyvisions.com AS31797 GALAXYVISIONS
-* 
-* 
-* 
 * gandi.net AS29169 GANDI-AS
 * gaslightmedia.com AS26981 GASLIGHT
 * gastra.net AS56239 GASTRANET-AS-ID
 * gazduire.ro AS20616 GAZDUIRE-AS
 * gctech.hk AS133549 GCT-AS-AP
 * genesisadaptive.com AS23367 GENADAP
-* 
-* 
 * gestiondecuentas.net AS203292 Hostisoft
 * gethosted.my AS133499 GETHOSTED-AS-AP
-* 
 * ggl.az AS205317 asggl
-* 
-* 
 * gigecdn.com AS19683 FORENDATA
 * gigenet.com AS32181 ASN-GIGENET
-* 
-* 
 * gigsgigs.com AS134520 GigsGigs-AS
 * gkg.net AS18710 GKG-NET
 * global-one.by AS28849 ASN-GLOBALONEBEL-CORE
 * global-village.de AS13039 GLOBAL-VILLAGE
 * globalhostingsolutionsinc.com AS395512 GLOBAL2016
-* 
-* 
 * gmhost.hosting AS201094 gmhost
 * gnt.md AS34529 GNT-MD-AS
 * gohost.kz AS203087 GOhost-KZ
 * gorillaservers.com AS53850 GORILLASERVERS
-* 
-* 
-* 
 * gotekky.com AS63447 GOTEKKY
 * gothamweb.com AS14211 GOTHAM-WEB-SERVICES
 * greatbasin.net AS5752 GREATBASIN
@@ -481,8 +331,6 @@
 * home.pl AS12824 HOMEPL-AS
 * hooplahosting.co.nz AS133950 HOOPLAHOSTING-AS-AP
 * host.ag AS44901 belcloud
-* 
-* 
 * host-expert.eu AS49645 SOFT-EXPERT-AS
 * host-it.co.uk AS00000 00000
 * host-palace.com AS134512 HOSTPALACE-EU
@@ -493,8 +341,6 @@
 * hostdigit.com AS20278 NEXEON
 * hostdime.com AS33182 DIMENOC
 * hosterion.com AS60781 LEASEWEB-NL-AMS-01
-* 
-* 
 * hosteur.com AS48809 HOSTEUR-EUCLYDE
 * hosteurope.de AS20773 GODADDY
 * hostexpress.com.au AS000000 000000
@@ -505,43 +351,31 @@
 * 5nines.com AS16842 5DL-AS
 * hosting.aruba.it AS31034 ARUBA-ASN
 * mcm.co.id AS38211 MCM-AS-ID
-* 
 * trijit.com AS59261 TRIJITNET-DC-IN
 * trijit.in AS132272 TRIJITNET-IN
 * trijit.uk AS59261 TRIJITNET-DC-IN
 * hosting.ua AS41665 HOSTING-AS
-* 
 * hostingdynamo.com AS00000 00000
 * hostinger.com AS47583 AS-HOSTINGER
 * hostinginside.com AS134522 HOSTINGINSIDE-AS-AP
-* 
 * hostinglotus.com AS00000 00000
 * hostingnow.co.nz AS132347 MIKIPRO-AS-AP
 * hostingsolutions.it AS24994 GENESYS-AS
 * hostinguk.net AS20860 IOMART-AS
-* 
-* 
 * hostit.hu	AS30836 NET23-AS
 * hostkey.com AS57043 HOSTKEY-AS
-* 
 * hostlink.com.au AS24322 HOSTLINK-AS-AP
-* 
-* 
 * hostmop.com AS0000 0000
 * hostmysite.com AS19324 DOSARREST
 * hostnet.de AS34895 HOSTNET-DE-AS
 * hostnetworks.com.au AS4851 HOSTNETWORKS-AS-AU-AP
 * hostpoint.ch AS29097 HOSTPOINT-AS
-* 
-* 
-* 
 * hostrocket.com AS23535 HOSTROCKET
 * hostroyale.com AS204287 HostRoyale_Technologies
 * hostsailor.com AS60117 HS
 * hostserver.de AS29140 HOSTSERVER-AS
 * hostus.us AS7489 HOSTUS-GLOBAL-AS
 * hostvenom.com AS30455 HOSTVENOM-LLC
-* 
 * hostway.com AS3064 SSERV-AS
 * hostway.de AS24679 SSERV-AS
 * hostwinds.com AS54290 HOSTWINDS
@@ -553,15 +387,11 @@
 * hypersurf.com AS17403 HSIS-AS
 * hypertek.net AS26467 HYPERTEK
 * hyve.com AS204167 hyve
-* 
-* 
 * i7.net AS00000 00000
 * ic2net.net AS22241 IC2NET
 * icastcenter.com AS53767 ICASTCENTER
 * icore.com.my AS132198 ICORE-MY
 * idaq.com AS34660 IDAQ-AS
-* 
-* 
 * idc69.com AS0000 00000
 * idcloudhost.com AS138608 CLOUDHOST-AS-AP
 * idealhosting.com.tr AS29262 IDEALHOSTING
@@ -570,16 +400,12 @@
 * ignum.cz AS29134 IGNUM-AS
 * ihc.ru AS203226 IHCRU
 * ikoula.com AS21409 IKOULA
-* 
 * imcloud.tw AS134823 SDCL-AS-AP
 * impactbusiness.com AS27006 IMPACTBUSINESS
 * in2net.com AS26753 IN2NET-NETWORK
-* 
-* 
 * inap.com AS12182 INTERNAP-2BLK
 * incentre.net AS6171 WORLDGATE
 * incero.com AS54540 INCERO-HVVC
-* 
 * indocenter.co.id AS4434 ERX-RADNET1-AS
 * infinite.net.au AS38826 INFINITENETWORKS-AS-AP
 * infobox.ru AS30968 INFOBOX-AS
