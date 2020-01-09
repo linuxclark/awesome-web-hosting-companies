@@ -1,8 +1,3 @@
-* hostmantis.com
-
-
-==================================
-
 
 * 100tb.com AS29854 WESTHOST	
 * 1asiacom.com AS19318 IS-AS-1
@@ -52,6 +47,7 @@
 * anlx.com AS25061 ANLX-UK
 * anynode.net AS20150 anyNode
 * apc.sg AS132425 APC-HOSTING-SG
+* hostmantis.com
 * appliedi.net AS14519 APPLIEDI
 * ardhglobal.com AS45731 ARDH-AS-ID
 * arpnetworks.com AS25795 ARPNET
